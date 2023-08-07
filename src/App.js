@@ -11,16 +11,16 @@ import Upcoming from "./components/Upcoming.js";
 function App() {
   return (
     <div className="App">
-      <Navbar/>
-      <Announcement/>
-      <Landing/>
-      <Camps/>
-      <Upcoming/>
-      <Partners/>
-      <Testimonial/>
-      <Grads/>
-      <Hire/>
-      <Footer/>
+      {/* <Navbar/> */}
+      {/* <Announcement/> */}
+      {/* <Landing/> */}
+      {/* <Camps/> */}
+      {/* <Upcoming/> */}
+      {/* <Partners/> */}
+      {/* <Testimonial/> */}
+      {/* <Grads/> */}
+      {/* <Hire/> */}
+      {/* <Footer/> */}
     </div>
   );
 }
