@@ -6,11 +6,11 @@ export default function Camp(props) {
       </h2>
       <p>{props.camp.description}</p>
       {props.camp.available === true ? (
-        <button className="bg-blue-600/90 text-white capitalize px-3 py-2 rounded text-sm mt-3">
+        <button className="bg-primary text-white capitalize px-3 py-2 rounded text-sm mt-3">
           {props.camp.buttonValue}
         </button>
       ) : (
-        <button className="bg-gray-500/80 text-white capitalize px-3 py-2 rounded text-sm mt-3">
+        <button className="bg-backgroundGray text-white capitalize px-3 py-2 rounded text-sm mt-3">
           {props.camp.buttonValue}
         </button>
       )}

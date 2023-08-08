@@ -1,5 +1,6 @@
 import { useState } from "react";
 import logo from "./../images/fikr.png";
+import Link from "./Link";
 
 export default function Navbar(params) {
   let [links, setLinks] = useState([
@@ -8,6 +9,7 @@ export default function Navbar(params) {
     "Hire Grads",
     "Free Webinars",
   ]);
+
   return (
     <div className="py-3 shadow-md bg-white">
       <div className="md:hidden container flex items-center justify-between ">
@@ -33,25 +35,16 @@ export default function Navbar(params) {
         </div>
         <div>
           <ul className="flex space-x-6 items-center ">
-            <li className="cursor-pointer hover:text-primary text-[14px]">
-              Courses
-            </li>
-            <li className="cursor-pointer hover:text-primary text-[14px]">
-              Success Stories
-            </li>
-            <li className="cursor-pointer hover:text-primary text-[14px]">
-              Hire Grads
-            </li>
-            <li className="cursor-pointer hover:text-primary text-[14px]">
-              Free webinars
-            </li>
+            {links.map((link, i) => (
+              <Link key={i} link={link} />
+            ))}
             <li>
               <a
                 href="https://forms.office.com/r/nsherhEZ4s"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <button className=" bg-blue-600/90 text-white px-4 py-3 rounded text-sm font-semibold">
+                <button className="bg-primary text-white px-4 py-3 rounded text-sm font-semibold">
                   APPLY NOW
                 </button>
               </a>

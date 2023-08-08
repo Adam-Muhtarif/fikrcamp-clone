@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Camp from "./camp";
+import Camp from "./Camp";
 
 export default function Camps() {
   let [camps, setCamps] = useState([

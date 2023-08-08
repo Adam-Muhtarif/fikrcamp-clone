@@ -20,7 +20,7 @@ export default function Upcoming() {
   return (
     <div className="container py-5">
       <h2 className="text-[30px] font-semibold leading-tight text-center pb-5">
-        Upcoming <span className="text-blue-600/90">Bootcamps</span>
+        Upcoming <span className="text-primary">Bootcamps</span>
       </h2>
       <div className="flex justify-center flex-wrap">
         {upComingCamps.map((camp,i) => (

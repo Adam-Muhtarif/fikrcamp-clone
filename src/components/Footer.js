@@ -13,7 +13,7 @@ export default function Footer() {
               <div className="mr-2 text-xs font-semibold text-gray">
                 Follow us on:
               </div>
-              <div className="mr-1.5 bg-blue-200/40 text-blue-700 p-2 rounded-md">
+              <div className="mr-1.5 bg-blueLight text-primary p-2 rounded-md">
                 <a
                   href="https://www.facebook.com/fikrcamp"
                   target="_blank"
@@ -32,7 +32,7 @@ export default function Footer() {
                   </svg>
                 </a>
               </div>
-              <div className="mr-1.5 bg-blue-200/40 text-blue-700 p-2 rounded-md">
+              <div className="mr-1.5 bg-blueLight text-primary p-2 rounded-md">
                 <a
                   href="https://twitter.com/fikrcamp"
                   target="_blank"
@@ -51,7 +51,7 @@ export default function Footer() {
                   </svg>
                 </a>
               </div>
-              <div className="mr-1.5 bg-blue-200/40 text-blue-700 p-2 rounded-md">
+              <div className="mr-1.5 bg-blueLight text-primary p-2 rounded-md">
                 <a
                   href="https://www.instagram.com/fikrcamp/"
                   target="_blank"
@@ -75,7 +75,7 @@ export default function Footer() {
         </div>
         <div className="border border-lightGray"></div>
         <div className="text-sm text-center py-2 ">
-          ©2021 FikrCamp. All rights reserved.
+          ©2023 FikrCamp. All rights reserved.
         </div>
       </div>
     </div>
