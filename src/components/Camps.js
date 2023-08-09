@@ -28,6 +28,8 @@ export default function Camps() {
 
   return (
     <div className="camps container py-12">
+      {/* this empty div for test */}
+      <div onClick={setCamps}></div>
       <h2 className="text-[30px] font-pans font-semibold leading-tight text-center">
         Our web and Ui/Ux camps
       </h2>

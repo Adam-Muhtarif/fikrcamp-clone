@@ -12,6 +12,8 @@ export default function Navbar(params) {
 
   return (
     <div className="py-3 shadow-md bg-white">
+      {/* this empty div for test */}
+      <div onClick={setLinks}></div>
       <div className="md:hidden container flex items-center justify-between ">
         <div>
           <img src={logo} alt="logo" className="w-40" />
