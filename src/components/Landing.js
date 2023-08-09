@@ -1,5 +1,5 @@
 import hassan from "./../images/hassan.png";
-import hussein from "./../images/hussein.png";
+import adam from "./../images/adam.png";
 import sara from "./../images/sara.png";
 export default function Landing() {
   return (
@@ -30,7 +30,7 @@ export default function Landing() {
                 <img className=" rounded-lg" src={hassan} alt="banner" />
               </div>
               <div className="col-span-2">
-                <img className=" rounded-lg" src={hussein} alt="banner" />
+                <img className=" rounded-lg fit-cover" src={adam} alt="banner" />
               </div>
               <div className="col-span-2 ">
                 <img className=" rounded-lg" src={sara} alt="banner" />
