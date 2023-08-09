@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Adam-Muhtarif/fikrcamp-clone/static/css/main.1c4c684c.css",
+    "main.js": "/Adam-Muhtarif/fikrcamp-clone/static/js/main.692a95e4.js",
+    "static/js/496.ed0b060b.chunk.js": "/Adam-Muhtarif/fikrcamp-clone/static/js/496.ed0b060b.chunk.js",
+    "static/media/hussein.png": "/Adam-Muhtarif/fikrcamp-clone/static/media/hussein.b48b67c2009ca0036bc3.png",
+    "static/media/hassan.png": "/Adam-Muhtarif/fikrcamp-clone/static/media/hassan.f8e5e981013fc1e43b77.png",
+    "static/media/sara.png": "/Adam-Muhtarif/fikrcamp-clone/static/media/sara.f40b006b7ba45cd4e858.png",
+    "static/media/student-1.png": "/Adam-Muhtarif/fikrcamp-clone/static/media/student-1.15c02809bc5c0f5ca604.png",
+    "static/media/wayeel.png": "/Adam-Muhtarif/fikrcamp-clone/static/media/wayeel.1ab23478528a0f365ad3.png",
+    "static/media/gts.png": "/Adam-Muhtarif/fikrcamp-clone/static/media/gts.5a2c2618abc38d6410f4.png",
+    "static/media/fikr.png": "/Adam-Muhtarif/fikrcamp-clone/static/media/fikr.73eeebe3fc6665e6d5ce.png",
+    "index.html": "/Adam-Muhtarif/fikrcamp-clone/index.html",
+    "main.1c4c684c.css.map": "/Adam-Muhtarif/fikrcamp-clone/static/css/main.1c4c684c.css.map",
+    "main.692a95e4.js.map": "/Adam-Muhtarif/fikrcamp-clone/static/js/main.692a95e4.js.map",
+    "496.ed0b060b.chunk.js.map": "/Adam-Muhtarif/fikrcamp-clone/static/js/496.ed0b060b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c4c684c.css",
+    "static/js/main.692a95e4.js"
+  ]
+}
