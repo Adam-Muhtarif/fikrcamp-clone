@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/fikrcamp-clone/static/css/main.1c4c684c.css",
-    "main.js": "/fikrcamp-clone/static/js/main.b1e4dd30.js",
+    "main.css": "/fikrcamp-clone/static/css/main.bc0c556c.css",
+    "main.js": "/fikrcamp-clone/static/js/main.088e010d.js",
     "static/js/496.ed0b060b.chunk.js": "/fikrcamp-clone/static/js/496.ed0b060b.chunk.js",
-    "static/media/hussein.png": "/fikrcamp-clone/static/media/hussein.b48b67c2009ca0036bc3.png",
+    "static/media/adam.png": "/fikrcamp-clone/static/media/adam.6121e927b7b868d21a36.png",
     "static/media/hassan.png": "/fikrcamp-clone/static/media/hassan.f8e5e981013fc1e43b77.png",
     "static/media/sara.png": "/fikrcamp-clone/static/media/sara.f40b006b7ba45cd4e858.png",
     "static/media/student-1.png": "/fikrcamp-clone/static/media/student-1.15c02809bc5c0f5ca604.png",
@@ -11,12 +11,12 @@
     "static/media/gts.png": "/fikrcamp-clone/static/media/gts.5a2c2618abc38d6410f4.png",
     "static/media/fikr.png": "/fikrcamp-clone/static/media/fikr.73eeebe3fc6665e6d5ce.png",
     "index.html": "/fikrcamp-clone/index.html",
-    "main.1c4c684c.css.map": "/fikrcamp-clone/static/css/main.1c4c684c.css.map",
-    "main.b1e4dd30.js.map": "/fikrcamp-clone/static/js/main.b1e4dd30.js.map",
+    "main.bc0c556c.css.map": "/fikrcamp-clone/static/css/main.bc0c556c.css.map",
+    "main.088e010d.js.map": "/fikrcamp-clone/static/js/main.088e010d.js.map",
     "496.ed0b060b.chunk.js.map": "/fikrcamp-clone/static/js/496.ed0b060b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c4c684c.css",
-    "static/js/main.b1e4dd30.js"
+    "static/css/main.bc0c556c.css",
+    "static/js/main.088e010d.js"
   ]
 }
